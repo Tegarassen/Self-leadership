@@ -10,6 +10,7 @@ An interactive 90-minute workshop covering self leadership, goal setting, task d
 - Select Presenter for speaking notes, timing and an audience window.
 - Use SLII chart or Full poster for the embedded reference diagrams.
 - Download copy saves a standalone HTML file that can be opened offline.
+- Explore the self-leadership cycle, reveal task evidence, compare D1–D4, switch between one colleague’s tasks, and test a style on the direction/support chart. Selections sync with the audience window.
 - Edits in the presentation are saved locally in your browser. They do not change this public site. To publish an update, replace `index.html` and push the change.
 
 ## Hosting
